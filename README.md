@@ -1,15 +1,15 @@
-## Welcome to Cynosure's Home
+## Self Narrative
 
-自说自话也好
 
-### 写点什么
 
-写作和绘画一样吗？阅读很困难吗？
+### Writing
 
-### 画点什么
 
-为什么画画被认为是一项技能，而阅读却默认是人人都会的
 
-### 编点什么
+### Drawing
 
-写代码呢？算一种特殊写作吗？
+
+
+### Programming
+
+

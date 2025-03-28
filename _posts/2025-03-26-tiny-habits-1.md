@@ -1,6 +1,6 @@
 ---
 title:  "tiny habits 1"
-date:   2025-03-23 02:31:04 -0500
+date:   2025-03-26 02:31:04 -0500
 categories: narrative
 ---
 

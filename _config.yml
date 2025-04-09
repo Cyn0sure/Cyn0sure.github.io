@@ -19,7 +19,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Augue the Toss
+title: Argue the Toss
 
 description: >- # this means to ignore newlines until "baseurl:"
   blog for self narrative

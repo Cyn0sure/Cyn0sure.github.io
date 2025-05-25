@@ -1,6 +1,6 @@
 ---
 title:  "投资or亏钱"
-date:   2025-05-25 091:04 -0500
+date:   2025-05-25 0904 -0500
 categories: narrative
 ---
 
